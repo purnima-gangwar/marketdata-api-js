@@ -1,4 +1,4 @@
-# @barchart/marketdata-api-js
+# Project : Marketdata-api
 
 [![AWS CodeBuild](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiY1VDTWRsRHkwK0NRYnJNZk95WjVEMzR3QW9EbUtTRG9yNExRSk0yVTI1MEtWWGlDOXUvQU1xTmNuTUxNd0REZ1VlZkc2WXRPMXZ2SWpOSW83UkdYc3c4PSIsIml2UGFyYW1ldGVyU3BlYyI6IjhUTXBaL1E4RW5WRGlKTjIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://github.com/barchart/marketdata-api-js)
 [![NPM](https://img.shields.io/npm/v/@barchart/marketdata-api-js)](https://www.npmjs.com/package/@barchart/marketdata-api-js)
@@ -13,21 +13,21 @@
 * Your application requests market data for one or more symbols, then
 * Your application receives a market data stream for subscribed symbols.
 
-### Openfeed
+## Openfeed
 
 This library receives market data using a proprietary protocol called DDF. For new development, Barchart has switched to an open-source protocol called [Openfeed](https://docs.barchart.com/openfeed/#/) to transfer market data. Consequently, this library will be marked as deprecated in the near future. You can access new SDK libraries for Openfeed [here](https://www.barchart.com/solutions/services/stream).
 
-### Documentation
+## Documentation
 
 Complete documentation for this SDK can be accessed here:
 
 * [https://barchart.github.io/marketdata-api-js/#/](https://barchart.github.io/marketdata-api-js/#/)
 
-### Demos
+## Demos
 
 Working demos are available for web browser and Node.js environments. Please refer to the [documentation](https://barchart.github.io/marketdata-api-js/#/content/quick_start?id=demos).
 
-### Package Managers
+## Package Managers
 
 This library has been published to NPM as [@barchart/marketdata-api-js](https://www.npmjs.com/package/@barchart/marketdata-api-js). Install as follows:
 
@@ -35,7 +35,7 @@ This library has been published to NPM as [@barchart/marketdata-api-js](https://
  npm install @barchart/marketdata-api-js -S
 ```
 
-### Build :
+## Build :
 
 Source code is written in [ES2018](https://en.wikipedia.org/wiki/ECMAScript#9th_Edition_%E2%80%93_ECMAScript_2018). Consequently, transpilation is recommended for use in web browsers.
 
