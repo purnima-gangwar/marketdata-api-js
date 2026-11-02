@@ -23,7 +23,7 @@ Complete documentation for this SDK can be accessed here:
 
 * [https://barchart.github.io/marketdata-api-js/#/](https://barchart.github.io/marketdata-api-js/#/)
 
-### Demos :
+### Demos
 
 Working demos are available for web browser and Node.js environments. Please refer to the [documentation](https://barchart.github.io/marketdata-api-js/#/content/quick_start?id=demos).
 
