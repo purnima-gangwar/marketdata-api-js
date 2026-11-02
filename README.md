@@ -3,7 +3,7 @@
 [![AWS CodeBuild](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiY1VDTWRsRHkwK0NRYnJNZk95WjVEMzR3QW9EbUtTRG9yNExRSk0yVTI1MEtWWGlDOXUvQU1xTmNuTUxNd0REZ1VlZkc2WXRPMXZ2SWpOSW83UkdYc3c4PSIsIml2UGFyYW1ldGVyU3BlYyI6IjhUTXBaL1E4RW5WRGlKTjIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://github.com/barchart/marketdata-api-js)
 [![NPM](https://img.shields.io/npm/v/@barchart/marketdata-api-js)](https://www.npmjs.com/package/@barchart/marketdata-api-js)
 
-### Overview 🚀
+## Overview 🚀
 
 [Barchart](https://www.barchart.com) offers streaming market data for a wide range of asset classes which trade on exchanges around the world. Review our [market data catalog](https://www.barchart.com/solutions/data/market) for details.
 
